@@ -12,8 +12,8 @@ AWS DeepRacer는 강화 학습을 사용하여 자율 주행 자동차를 훈련
 이 프로젝트에서는 AWS DeepRacer를 사용하여 강화 학습 기반의 자율 주행 자동차 모델을 훈련하고 평가했습니다. DeepRacer는 실제 물리적 자동차 모델을 사용하거나 가상 환경에서 시뮬레이션을 수행할 수 있습니다.
 
 참고 링크:
-[원회전탐색](https://falktan.medium.com/aws-deepracer-how-to-train-a-model-in-15-minutes-a07ab77fb793)
-[경로최적화](https://github.com/TwoDigits/deepracer/blob/master/reward_function.py)
+-[원회전탐색](https://falktan.medium.com/aws-deepracer-how-to-train-a-model-in-15-minutes-a07ab77fb793)
+-[경로최적화](https://github.com/TwoDigits/deepracer/blob/master/reward_function.py)
 
 ## 학습 내용
 1. 자율주행
