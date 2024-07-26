@@ -12,9 +12,8 @@ AWS DeepRacer는 강화 학습을 사용하여 자율 주행 자동차를 훈련
 이 프로젝트에서는 AWS DeepRacer를 사용하여 강화 학습 기반의 자율 주행 자동차 모델을 훈련하고 평가했습니다. DeepRacer는 실제 물리적 자동차 모델을 사용하거나 가상 환경에서 시뮬레이션을 수행할 수 있습니다.
 
 참고 링크:
-- [1] Amazon SageMaker에서 모델을 구축한 후 AWS DeepRacer 3D 경주 시뮬레이터에서 트랙을 빠르고 간편하게 훈련하고, 테스트하며, 반복할 수 있습니다.
-- [2] 시뮬레이터와 함께 내재되어 있는 사전 정의된 레이스 트랙에 대해 자율 주행 모델을 훈련시킬 수 있으며, 훈련결과를 확인할 수 있도록 모델에 대한 가상 평가를 제공합니다.
-- [3] AWS DeepRacer 콘솔: 3차원 시뮬레이션 자율 주행 환경에서 강화 학습 모델을 훈련 및 평가하기 위한 AWS 기계 학습 서비스입니다.
+[원회전탐색](https://falktan.medium.com/aws-deepracer-how-to-train-a-model-in-15-minutes-a07ab77fb793)
+[경로최적화](https://github.com/TwoDigits/deepracer/blob/master/reward_function.py)
 
 ## 학습 내용
 1. 자율주행
@@ -39,5 +38,4 @@ AWS DeepRacer를 사용하려면 AWS 계정이 필요합니다.
 2. 가상 트랙에서 강화 학습 모델을 훈련하고 평가할 수 있습니다.
 3. 훈련된 모델을 실제 DeepRacer 자동차에 배포하여 주행할 수 있습니다.
 
-참고 링크:
-- [4] AWS DeepRacer를 활용한 자율주행과 강화학습 위탁 교육 안내 
+
