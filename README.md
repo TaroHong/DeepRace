@@ -27,9 +27,9 @@ AWS DeepRacer는 강화 학습을 사용하여 자율 주행 자동차를 훈련
 9. 리그 참가
 
 ## 기술 스택
-- AWS DeepRacer
-- 강화 학습
-- 자율 주행 가상 시뮬레이션 및 실제 주행
+하이퍼 파라미터에 대해서는 트랙에 맞게 변동하는걸 권장합니다
+강화학습은 과적합에 주의해서 해야할것
+![GIFMaker_me](https://github.com/user-attachments/assets/1b8922f5-a94d-4f53-938d-9fb40b338f46)
 
 ## 사용 방법
 AWS DeepRacer를 사용하려면 AWS 계정이 필요합니다.
