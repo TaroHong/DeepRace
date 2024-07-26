@@ -13,7 +13,7 @@ AWS DeepRacer는 강화 학습을 사용하여 자율 주행 자동차를 훈련
 
 참고 링크:
 -[원회전탐색](https://falktan.medium.com/aws-deepracer-how-to-train-a-model-in-15-minutes-a07ab77fb793)
--[경로최적화](https://github.com/TwoDigits/deepracer/blob/master/reward_function.py)
+[경로최적화](https://github.com/TwoDigits/deepracer/blob/master/reward_function.py)
 
 ## 학습 내용
 1. 자율주행
