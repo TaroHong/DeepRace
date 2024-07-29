@@ -56,7 +56,7 @@ def get_target_point(params):
 
     return target_point
 
-# 타겟 포인트와 해딩 각의 차이 (최적의 핸들 각도)를 구하는 함수
+# 타겟 포인트와 해딩 각의 차이 (최적의 핸들 각도)를 구하는 함수 수정X
 def get_target_steering_degree(params):
     tx, ty = get_target_point(params)
     car_x = params['x']
