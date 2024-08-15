@@ -17,6 +17,7 @@ DeepRacer는 실제 물리적 자동차 모델을 사용하거나 가상 환경�
 * [원회전탐색](https://falktan.medium.com/aws-deepracer-how-to-train-a-model-in-15-minutes-a07ab77fb793)
 * [경로최적화](https://github.com/TwoDigits/deepracer/blob/master/reward_function.py)
 * [파라미터 및 기타자료들](https://deepracer-school-ko.ai-castle.com/intro.html)
+* [최단루트 및 속도계산기](https://colab.research.google.com/drive/1USh9C3sG1cP_A9PWy3Ywy5JWX5x9ZsVt#scrollTo=eroSE4c6nExR)
 
 ## 학습 내용
 1. 자율주행
